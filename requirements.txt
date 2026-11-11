@@ -1,9 +1,13 @@
-library_management_system/
-├── src/
-│   ├── book.py
-│   ├── books_data.py
-│   ├── member.py
-│   ├── library.py
-│   └── main.py
+library-management-system/
+│
+├── .gitignore
+├── LICENSE
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+│
+└── src/
+    ├── book.py
+    ├── books_data.py
+    ├── library.py
+    ├── main.py
+    └── member.py
