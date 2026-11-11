@@ -14,7 +14,7 @@ Features
 - Book Search: Includes a placeholder for future book availability search functionality.
 
 Project Structure
-
+```
 library-management-system/
 │
 ├── LICENSE
@@ -29,6 +29,7 @@ library-management-system/
     ├── main.py
     └── member.py
 
+```
 Technologies & Concepts
 
 Language: Python 3
